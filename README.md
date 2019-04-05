@@ -5,17 +5,15 @@ a test demo model
 
 ### 需要复制的文件：
 Activity文件：
+* /TestDemoModel/app/src/main/java/com/topwise/testdemomodel/BaseTestActivity.java
 
-/TestDemoModel/app/src/main/java/com/topwise/testdemomodel/BaseTestActivity.java
-
-/TestDemoModel/app/src/main/java/com/topwise/testdemomodel/MainActivity.java
+* /TestDemoModel/app/src/main/java/com/topwise/testdemomodel/MainActivity.java
 
 layout文件：
-/TestDemoModel/app/src/main/res/layout/activity_main.xml
+* /TestDemoModel/app/src/main/res/layout/activity_main.xml
 
+* /TestDemoModel/app/src/main/res/layout/left_scroll.xml
 
-/TestDemoModel/app/src/main/res/layout/left_scroll.xml
-
-/TestDemoModel/app/src/main/res/layout/show_item.xml
+* /TestDemoModel/app/src/main/res/layout/show_item.xml
 
 ###### 复制后，直接覆盖新项目的MainActivity.java。
